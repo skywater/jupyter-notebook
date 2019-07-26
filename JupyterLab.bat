@@ -1,0 +1,2 @@
+jupyter-lab
+cmd
